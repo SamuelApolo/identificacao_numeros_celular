@@ -1,0 +1,67 @@
+11:São Paulo-SP
+12:Pindamonhangaba-SP
+13:Praia-Grande-SP
+14:Bauru-Sp
+15:Sorocaba-Sp
+16:Araraquara-SP
+17:Barretos-SP
+18:Presidente Prudente-SP
+19:Campinas-SP
+21:Rio de Janeiro-RJ
+22:Cabo Frio-RJ
+24:Angra dos Reis-RJ
+27:Boa Esperança-ES
+28:Conceição da Barra-ES
+31:Belo Horizonte-MG
+32:Juiz de Fora-MG
+33:Governador Valadares-MG
+34:Uberaba-MG
+35:Bom Sucesso-MG
+37:Divinopolis-MG
+38:Pintopolis-MG
+41:São José dos Pinhais-PR
+42:Ponta Grossa-PR
+43:Londrina-PR
+44:Maringá-PR      
+45:Toledo-PR
+46:Pato Branco-PR
+47:Blumenau-SC
+48:Criciuma-SC
+49:Chapeco-SC
+51:Porto Alegre-RS
+53:Pedro Osorio-RS
+54:Caxias do Sul-RS
+55:Pinhal-RS
+61:Brasilia-DF e Planaltina-GO
+62:Goiania-GO
+63:Palmas-TO
+64:Itumbiara-GO
+65:Cuiaba-MT
+66:Rondonopolis-MT
+67:Campo Grande-MS
+68:Rio Branco-AC
+69:Porto Velho-RO
+71:Salvador-BA
+73:Porto Seguro-BA
+74:Juazeiro-BA
+75:São Gonçalo dos Campos-BA 
+77:Vitoria da Conquista-BA
+79:Aracaju-SE
+81:Recife-PE
+82:Maceio-AL
+83:Campina Grande-PB
+84:São Vicente-RN
+85:Fortaleza-CE
+86:Teresina-PI
+87:Petrolina-PE
+88:Boa Viagem-PI
+89:São Luiz do Piaui-PI
+91:Belem-PA
+92:Parintins-AM
+93:Monte Alegre-PA
+94:Santana do Araguaia-PA
+95:Alto Alegre-RR
+96:Macapa-AP
+97:Tabatinga-AM
+98:São Luiz-MA
+99:Alto Alegre do Maranhão-MA
